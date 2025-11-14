@@ -72,7 +72,7 @@ Learnistiq/
 
 ### 🔹 1. Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/Learnistiq.git
+git clone https://github.com/Anvesh7777/Learnistiq.git
 cd Learnistiq
 ```
 
